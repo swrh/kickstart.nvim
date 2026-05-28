@@ -1,5 +1,3 @@
 -- leap.lua
 
-return {
-  'ggandor/leap.nvim',
-}
+vim.pack.add { 'https://codeberg.org/andyg/leap.nvim' }

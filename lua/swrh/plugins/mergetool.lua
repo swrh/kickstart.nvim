@@ -1,5 +1,3 @@
 -- mergetool.lua
 
-return {
-  'samoshkin/vim-mergetool',
-}
+vim.pack.add { 'https://github.com/samoshkin/vim-mergetool' }
